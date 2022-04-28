@@ -1,0 +1,11 @@
+C:\Users\Matthew\source\repos\Lab5(CPU)\Lab5(CPU)\bin\Debug\Lab5(CPU).exe.config
+C:\Users\Matthew\source\repos\Lab5(CPU)\Lab5(CPU)\bin\Debug\Lab5(CPU).exe
+C:\Users\Matthew\source\repos\Lab5(CPU)\Lab5(CPU)\bin\Debug\Lab5(CPU).pdb
+C:\Users\Matthew\source\repos\Lab5(CPU)\Lab5(CPU)\obj\Debug\Lab5(CPU).csproj.AssemblyReference.cache
+C:\Users\Matthew\source\repos\Lab5(CPU)\Lab5(CPU)\obj\Debug\Lab5(CPU).csproj.SuggestedBindingRedirects.cache
+C:\Users\Matthew\source\repos\Lab5(CPU)\Lab5(CPU)\obj\Debug\Lab5_CPU_.Form1.resources
+C:\Users\Matthew\source\repos\Lab5(CPU)\Lab5(CPU)\obj\Debug\Lab5_CPU_.Properties.Resources.resources
+C:\Users\Matthew\source\repos\Lab5(CPU)\Lab5(CPU)\obj\Debug\Lab5(CPU).csproj.GenerateResource.cache
+C:\Users\Matthew\source\repos\Lab5(CPU)\Lab5(CPU)\obj\Debug\Lab5(CPU).csproj.CoreCompileInputs.cache
+C:\Users\Matthew\source\repos\Lab5(CPU)\Lab5(CPU)\obj\Debug\Lab5(CPU).exe
+C:\Users\Matthew\source\repos\Lab5(CPU)\Lab5(CPU)\obj\Debug\Lab5(CPU).pdb
